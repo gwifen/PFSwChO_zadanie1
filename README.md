@@ -61,5 +61,4 @@ kubectl get hpa -n frontend -w
 #### po usunięciu load generatora
 <img width="1304" height="680" alt="image" src="https://github.com/user-attachments/assets/a6aecd5f-73b5-4720-8ed3-2f26702309d4" />
 
-
-
+# Rozwiązanie części nieobowiązkowej znajduje się w pliku README_Zadanie_dodatkowe.md
